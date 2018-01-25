@@ -5,7 +5,6 @@
   require_once("admin/phpscripts/config.php");
   $tbl = "tbl_movies";
   $getMovies = getAll($tbl);
-
 ?>
 
 <!doctype html>
